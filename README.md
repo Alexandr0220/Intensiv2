@@ -1,1 +1,5 @@
-# second_intensiv_predict_dataset_ot_samolyta
+# intensive 2
+
+Анализ данных и прогнозирование 
+
+Цель:Обучение машинной модели
